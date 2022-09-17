@@ -49,6 +49,7 @@ const moduleExports = withBundleAnalyzer(
               source: '/donate',
               destination: 'https://gitcoin.co/grants/6972/lenstube',
               permanent: true
+              //NEED TO ADD NEW LOOP
             }
           ]
         }
